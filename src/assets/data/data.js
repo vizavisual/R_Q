@@ -2,19 +2,19 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Junaidi',
-            child: 'Putra Pertama',
-            father: 'Mutaam (Alm)',
-            mother: 'Hotimah ',
+            name: 'Abd. Rosid, S.Pd',
+            child: 'Putra',
+            father: 'H. Sumarto',
+            mother: 'Hj. Hosniyah',
             ig: '<a href="https://instagram.com/colexionjun/" style="text-decoration:none;"><b>colexionjun</b></a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Fadilah',
-            child: 'Putri Kedua',
-            father: 'H. Sukri',
-            mother: 'HJ. Supriyati',
+            name: 'Nurul Qomariyah',
+            child: 'Putri',
+            father: 'Moh. Sholeh (alm)',
+            mother: 'Rahma',
             ig: '<a href="https://instagram.com/didil_fadil_/" style="text-decoration:none;"><b>didil_fadil_</b></a>',
             image: './src/assets/images/cewe.png'
         },
@@ -25,9 +25,9 @@ export const data = {
     time: {
         marriage: {
             year: '2025',
-            month: 'Juli',
-            date: '05',
-            day: 'Sabtu',
+            month: 'Desember',
+            date: '04',
+            day: 'Kamis',
             hours: {
                 start: '18.00',
                 finish: 'Selesai'
@@ -35,11 +35,11 @@ export const data = {
         },
         reception: {
             year: '2025',
-            month: 'Juli',
-            date: '05',
+            month: 'Desember',
+            date: '07',
             day: 'Sabtu',
             hours: {
-                start: '18.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
@@ -89,13 +89,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Fadilah',
+            name: 'Nurul',
             icon: './src/assets/images/bca.png',
             rekening: '1851871352'
         },
         {
             id: 2,
-            name: 'Junaidi',
+            name: 'Rosid',
             icon: './src/assets/images/bri.png',
             rekening: '006101170439501'
         },
