@@ -26,10 +26,10 @@ export const data = {
         marriage: {
             year: '2025',
             month: 'Desember',
-            date: '04',
-            day: 'Kamis',
+            date: '07',
+            day: 'Minggu',
             hours: {
-                start: '18.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
@@ -37,7 +37,7 @@ export const data = {
             year: '2025',
             month: 'Desember',
             date: '07',
-            day: 'Sabtu',
+            day: 'Minggu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
