@@ -89,15 +89,9 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Nurul',
-            icon: './src/assets/images/bca.png',
-            rekening: '1851871352'
-        },
-        {
-            id: 2,
-            name: 'Rosid',
-            icon: './src/assets/images/bri.png',
-            rekening: '006101170439501'
+            name: 'Abd. Rosid',
+            icon: './src/assets/images/mandiri.png',
+            rekening: '1090021211826'
         },
     ],
 
